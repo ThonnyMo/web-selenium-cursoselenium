@@ -51,8 +51,8 @@ public class OperatorsStatements {
 		
 		int num1 = 11;
 		int num2 = 4;
-		int num3 = 6;
-		int num4 = 11;
+//		int num3 = 6;
+//		int num4 = 11;
 		
 		if (num1 >= 10 || num2 > 10) {
 			System.out.println("Uno de los números es mayor o igual a 10 ");
